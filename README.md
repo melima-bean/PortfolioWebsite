@@ -3,10 +3,13 @@
 <!doctype html>
 <html>
 	<head>
-		<title> My Website </title>
-		<style>
-			
-		</style>
+		
+
+    <link href="aboutme.css" rel="stylesheet" title="Normal" />
+
+    <title>MD</title>
+
+
 	</head>
             <body>
            I'm still trying to figure this out. Wish me luck!
