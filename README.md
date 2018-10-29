@@ -1,6 +1,6 @@
 # PortfolioWebsite
 
-<!doctype html>
+<!DOCTYPE html>
 <html>
 	<head>
 		<style>
