@@ -3,13 +3,11 @@
 <!doctype html>
 <html>
 	<head>
-		
-
-    <link href="aboutme.css" rel="stylesheet" title="Normal" />
-
-    <title>MD</title>
-
-
+		<style>
+.categories {
+            font-weight: bold;
+			}
+		</style>
 	</head>
             <body>
            I'm still trying to figure this out. Wish me luck!
@@ -19,10 +17,5 @@
 <div class="categories" > About Me </div> <div class="categories"> work </div>
 
 <span> how do I </span> <span> do CSS? </span>
-
+</body>
 </html>
-<CSS>
-.categories {
-            font-weight: bold;
-            }
-</CSS>
